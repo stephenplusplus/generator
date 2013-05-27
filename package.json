@@ -42,7 +42,8 @@
     "prompt": "~0.2.9",
     "revalidator": "~0.1.5",
     "dargs": "~0.1.0",
-    "async": "~0.2.8"
+    "async": "~0.2.8",
+    "iconv-lite": "~0.2.10"
   },
   "devDependencies": {
     "mocha": "~1.9.0",
